@@ -1,5 +1,5 @@
 # Current
-A distributed social networking protocol
+> A distributed social networking protocol
 
 This project is for creating a distributed social networking protocol that can be implimented by anyone who would desire to make a client for it.
 
