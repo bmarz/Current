@@ -8,6 +8,7 @@ The name "Current" is very relivant, as a distributed system, in order to be pra
 The requirements for Curreent are as follows:
 
 1. Be completely distributed with no need for a dedicated server, ever.
+
   a. Utilize a limited amount of space, no more than 1 or 2 GB of cache per device - NOT per current.
   b. Maintain up-to-date currents the user is subscribed to reguardless of movement between networks.
     z. A block chain of some variety is probably the best option
